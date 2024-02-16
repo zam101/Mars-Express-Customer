@@ -6,9 +6,26 @@
 
 - **Parcel Management**: Users can accept or cancel parcel deliveries as needed, empowering them with flexibility in managing their logistics operations.
 
-- **Bordereau Tracking**: Mars Express Customer provides comprehensive bordereau tracking, allowing users to monitor the status of each delivery. Users can track bordereau codes and their respective statuses (e.g., all, arrived, failed) in real-time, along with information on the current station location (province).
+- **Parcel Tracking**: Mars Express Customer provides comprehensive parcel tracking, allowing users to monitor the status of each delivery. Users can track parcel codes and their respective statuses (e.g., all, arrived, failed) in real-time, along with information on the current station location (province).
 
 - **Driver Comments**: In cases where a delivery fails, users can access comments left by the driver, providing insights into the reason for the failure.
+
+# Used Packages
+
+This project utilizes the following Flutter packages:
+
+- get (getx)
+- lottie
+- flutter_svg
+- dio
+- dotted_line
+- loading_indicator
+- flutter_launcher_icons
+- flutter_native_splash
+- shared_preferences
+- dropdown_button2
+- internet_connection_checker_plus
+- connectivity_plus
 
 ## screenshots :
 ![mockup.jpg](./screenshots/mockupHQ.jpg)
