@@ -1,4 +1,5 @@
 # Mars Customer (ANDROID , IOS):
+![mockup.jpg](./screenshots/mockupHQ.jpg)
 
 **Mars Express Customer** is a Flutter application that i developed ( flutter for the frontend + some backend code using php/symfony ) to streamline parcel management for Mars Express users, particularly eCommerce store owners. This app offers the following features:
 
@@ -28,5 +29,4 @@ This project utilizes the following Flutter packages:
 - connectivity_plus
 
 ## screenshots :
-![mockup.jpg](./screenshots/mockupHQ.jpg)
 ![mars-express-customer.png](./screenshots/mars-express-customer.png)
